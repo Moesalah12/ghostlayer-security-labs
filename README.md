@@ -59,4 +59,4 @@ No geolocation, attribution, malware analysis, customer exposure, or credential 
 
 ## Provenance
 
-Created with OpenAI Codex assistance. This is a worked educational scenario, not a claim that a real incident was investigated. Tool repositories contain their implementation details, licenses, and test suites.
+This is a worked educational scenario, not a claim that a real incident was investigated. Tool repositories contain their implementation details, licenses, and test suites.
